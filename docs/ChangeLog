@@ -1,0 +1,13 @@
+1.2 - 1.3
+
+* Changed the algorithm based on comments by my colleague at
+  http://www.digit-labs.org/files/otherstuff/randpasswds/, see
+  http://www.nth-dimension.org.uk/blog.php?id=51
+
+1.1 - 1.2
+
+* Cleaned up code
+
+0.0 - 1.1
+
+* Initial PoC
